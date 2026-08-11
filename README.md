@@ -26,7 +26,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/mlsc-app.git
+git clone https://github.com/Pratham-Bellam/mlsc-app.git
 cd mlsc-app
 
 Install the dependencies:
