@@ -1,56 +1,49 @@
-# Welcome to your Expo app 👋
+MLSC App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is the mobile application I built for the Microsoft Learn Student Club (MLSC) recruitment task.
 
-## Get started
+About the App
 
-1. Install dependencies
+The app contains Login and Sign Up screens with basic input validation. I focused on keeping the interface simple and easy to use while implementing the required functionality.
 
-   ```bash
-   npm install
-   ```
+Features
 
-2. Start the app
+- Login screen
+- Sign Up screen
+- Email and password validation
+- Password confirmation
+- Navigation between Login and Sign Up
+- Simple and responsive UI
 
-   ```bash
-   npx expo start
-   ```
+Built With
 
-In the output, you'll find options to open the app in a
+- React Native
+- Expo
+- JavaScript
+- Expo Router
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+How to Run
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Clone the repository:
 
-## Get a fresh project
+git clone https://github.com/YOUR_USERNAME/mlsc-app.git
+cd mlsc-app
 
-When you're ready, run:
+Install the dependencies:
 
-```bash
-npm run reset-project
-```
+npm install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Start the app:
 
-### Other setup steps
+npx expo start
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+You can then open it using Expo Go or an Android emulator.
 
-## Learn more
+Note
 
-To learn more about developing your project with Expo, look at the following resources:
+This project was made as part of the MLSC recruitment process.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Author
 
-## Join the community
+Pratham Bellam
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
